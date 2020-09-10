@@ -1,5 +1,5 @@
-def parImpar(n):
-    if int(n)%2 == 0:
+def parImpar(o):
+    if int(o)%2 == 0:
         return True
     else:
         return False   
